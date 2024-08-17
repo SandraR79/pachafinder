@@ -1,0 +1,1158 @@
+{
+  "Acre": {
+    "name": "Acre",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Acre_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Avocado",
+        "Wheat Beer",
+        "Copper",
+        "Obsidian",
+        "Potato Salad",
+        "Tin",
+        "Tomato Honey",
+        "Wild Grapes Wine"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Alma Wine",
+        "Corn",
+        "Flint",
+        "Aged Pineapple Wine",
+        "Bison Fur",
+        "Sundried Tomato"
+      ]
+    }
+  },
+  "Ada": {
+    "name": "Ada",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Ada_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Olive Oil",
+        "Coconut Milk Butter",
+        "Steamed vegetable",
+        "Mandrake",
+        "Willow Bark",
+        "Rose Hips",
+        "Seaweed",
+        "Red Mushroom",
+        " Burdock Root",
+        "Eggplant"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Sea Kale Juice",
+        "Kohlrabi Juice",
+        "Cabbage Juice",
+        "Broccoli Juice",
+        "Datura Flower",
+        " Milk Thistle",
+        "Citronella",
+        "Elecampane",
+        "Lavender",
+        "Mint",
+        "Rosemary",
+        "Watercress",
+        "Garlic",
+        "Wheat Bread",
+        "Buckwheat",
+        "Meat Smoked Beans",
+        "Plant Meat"
+      ]
+    }
+  },
+  "Ata": {
+    "name": "Ata",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Ata_Portrait.webp",
+    "presents": {
+      "love": [
+        "Strawberry",
+        "Wild Grapes",
+        "Strawberry Juice",
+        "Fruit Crumble",
+        "Pumpkin Pie",
+        "Alma Juice",
+        "Copper",
+        "Obsidian",
+        "Prickly Pear",
+        "Aged Ibex Milk Cheese",
+        "Junglefowl Feather",
+        "Sundried Mango"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Flint",
+        "Wild Grapes Juice",
+        "Pineapple",
+        "Kohlrabi",
+        "Mango",
+        "Olive",
+        "Pumpkin",
+        "Hardwood",
+        "Sunflower",
+        "Honey"
+      ]
+    }
+  },
+  "Brah": {
+    "name": "Brah",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Brah_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Strawberry Juice",
+        "Potato",
+        "Coconut",
+        "Arroz Con Leche",
+        "Fried Eggs",
+        "Fruit Platter",
+        "Goat Cheese",
+        "Strawberry",
+        "Mango Juice",
+        "Bear Claw",
+        "Dried Alma",
+        "Peridot"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Gemstone",
+        "Pomegranate",
+        "Ostrich Egg",
+        "Nacre",
+        "Wild Grapes"
+      ]
+    }
+  },
+  "Brub": {
+    "name": "Brub",
+    "clan": "Yakuan Clan",
+    "image": "/img/portraits/Brub_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Wild Raisins",
+        "Almond Milk",
+        "Curry",
+        "Beans",
+        "Dried Coconut",
+        "Sea Kale Mulled Wine",
+        "Fermented Oysters",
+        "Pickled Porcupine"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Kuluban",
+        "Papadzules",
+        "Amethyst",
+        "Shell",
+        "River Fish",
+        "Pickled Fish"
+      ]
+    }
+  },
+  "Croll": {
+    "name": "Croll",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Croll_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Sauerkraut",
+        "Rosted Fish",
+        "Pickled Beets",
+        "Pickled Garlic",
+        "Pickled Oysters",
+        "Alma Wine",
+        "Cabbage Wine",
+        "Aged Cabbage Wine"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Fennel Juice",
+        "Onion",
+        "Bones",
+        "Horns",
+        "Oysters",
+        "Fermented Fish",
+        "Pickled Fish"
+      ]
+    }
+  },
+  "Daari": {
+    "name": "Daari",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Daari_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Almond Milk Butter",
+        "Hummus",
+        "Frittata",
+        "Milk Thistle",
+        "Oregano",
+        "Ostrich Feather",
+        "Agate",
+        "Amaranth"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Ostrich Egg",
+        "Flour",
+        "Plant Meat",
+        "Oil"
+      ]
+    }
+  },
+  "Era": {
+    "name": "Era",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Era_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Chile",
+        "Pumpkin",
+        "Almond Milk",
+        "Injera",
+        "Souffle",
+        "Oregano",
+        "Peridot",
+        "Citron Vinegar",
+        "Silver",
+        "Avocado Oil"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Almond",
+        "Tomato",
+        "Quinoa",
+        "Sesame",
+        "Dried Fruit",
+        "Broccoli",
+        "Teff",
+        "Smoked Red Meat",
+        "Smoked White Meat",
+        "Vinegar",
+        "Oil"
+      ]
+    }
+  },
+  "Frer": {
+    "name": "Frer",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Frer_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Kohlrabi",
+        "Tomato Juice",
+        "Mediterranean Grilled Fish",
+        "Pasta of the Sea",
+        "Zeus",
+        "Trumpet",
+        "Sardius",
+        "Bear Claw"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Dried Mango",
+        "Sundried Tomato",
+        "Sea Kale",
+        "Citron Juice",
+        "Porcupine",
+        "Pickled Eggplant",
+        "Smoked Fish"
+      ]
+    }
+  },
+  "Garrek": {
+    "name": "Garrek",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Garrek_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Beets Juice",
+        "Duxelles",
+        "Jasper",
+        "Mushroom Tart",
+        "Seaweed",
+        "Mushroom Cheese",
+        "Mead"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Sunflower",
+        "Carrot Juice",
+        "Milk Thistle",
+        "Goat Cheese",
+        "Cassava",
+        "Mushroom",
+        "Pickled vegetable",
+        "Smoked Fish"
+      ]
+    }
+  },
+  "Gin": {
+    "name": "Gin",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Gin_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Almond Milk Butter",
+        "Hummus",
+        "Frittata",
+        "Milk Thistle",
+        "Oregano",
+        "Ostrich Feather",
+        "Agate",
+        "Amaranth"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Ostrich Egg",
+        "Flour",
+        "Plant Meat",
+        "Oil"
+      ]
+    }
+  },
+  "Grob": {
+    "name": "Grob",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Grob_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Beets",
+        "Potato",
+        "Bife",
+        "Zeus",
+        "Ostrich Egg Mayonnaise",
+        "Smoked Red Meat",
+        "Tomato Honey",
+        "Pickled Potato"
+      ],
+      "like": [
+        "Corn",
+        "Onion",
+        "Garlic",
+        "Potato Salad",
+        "Guanaco Fur",
+        "Horns",
+        "Poop",
+        "Hardwood",
+        "Peridot",
+        "Flint",
+        "Juice",
+        "Honey"
+      ]
+    }
+  },
+  "Igrork": {
+    "name": "Igrork",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Igrork_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Almond",
+        "Teff",
+        "Porrige",
+        "Dried Sponge",
+        "Beryl",
+        "Dried Date",
+        "Pickled Beets",
+        "Sauerkraut"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Broccoli Juice",
+        "Cabbage Juice",
+        "Kohlrabi Juice",
+        "Sea Kale Juice",
+        "Date",
+        "Fertilizer",
+        " Cabbage",
+        "Olive",
+        "Flan",
+        "Horse Manure",
+        "Eggplant",
+        "Beans",
+        "Root"
+      ]
+    }
+  },
+  "Inza": {
+    "name": "Inza",
+    "clan": "Yakuan Clan",
+    "image": "/img/portraits/Inza_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Strawberry",
+        "Broccoli",
+        "Coconut Milk Butter",
+        "Trumpet",
+        "Medusalion",
+        "Fish Taco",
+        "Pomegranate Toast",
+        "Mint",
+        "Peridot",
+        "Aged Sea Kale Wine",
+        "River Fish"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Pomegranate",
+        "Olive Oil",
+        "Sundried Tomato",
+        "Rosted Fish",
+        "Sea Kale Wine",
+        "Shell"
+      ]
+    }
+  },
+  "Jizu": {
+    "name": "Jizu",
+    "clan": "PachanIgrorkan",
+    "image": "/img/portraits/Jizu_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Fennel",
+        "Pine Cone",
+        "Trumpet",
+        "Medusalion",
+        "Tamales",
+        "Guanaco Fur Yarn",
+        "Sunflower Mead",
+        "Citronella",
+        "Tomato Honey",
+        "Sardius"
+      ],
+      "like": [
+        "Gemstone",
+        "Bones",
+        "Milk Thistle",
+        "Oregano",
+        "Ostrich Feather",
+        "Junglefowl Feather",
+        "Shell",
+        "Yarn",
+        "Honey"
+      ]
+    }
+  },
+  "Illoe": {
+    "name": "Illoe",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Illoe_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Sunflower",
+        "Wild Grapes Juice",
+        "Wheat Beer",
+        "Empanadas",
+        "Locro",
+        "Nacre",
+        "Watercress",
+        "Burdock Root",
+        "Guanaco Fur Yarn",
+        "Gold",
+        "Pickled Beets"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Tomato Juice",
+        "Sesame",
+        "Cabbage",
+        "Ostrich Egg",
+        "Medicinal Items",
+        "Goat Cheese",
+        "Guanaco Fur",
+        "Dried Sponge",
+        "Shell",
+        "Beer"
+      ]
+    }
+  },
+  "Jag": {
+    "name": "Jag",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Jag_Portrait.webp",
+    "presents": {
+      "love": [
+        "Sesame",
+        "Meat Stew",
+        "Ibex Milk Herb Cheese",
+        "Hardwood",
+        "Smoked Red Meat",
+        "Lavender",
+        "Pickled Carrot",
+        "Honey"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Pomegranate",
+        "Mango",
+        "Wood",
+        "Flint",
+        "Smoked White Meat",
+        "Smoked Fish"
+      ]
+    }
+  },
+  "Jelrod": {
+    "name": "Jelrod",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Jelrod_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Winter Peas",
+        "Buns",
+        "Milanesa",
+        "Smoked Red Meat",
+        "Fermented Wild Rice",
+        "Jasper",
+        "Gold",
+        "Dried Coconut",
+        "Aged Wine",
+        "Aged Cheese"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Quinoa",
+        "Sunflower",
+        "Sesame",
+        "Coconut",
+        "Wheat Bread",
+        "Goat Cheese",
+        "Dried Red Meat",
+        "Pickled Kohlrabi",
+        "Junglefowl Feather",
+        "Alfalfa"
+      ]
+    }
+  },
+  "Jukk": {
+    "name": "Jukk",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Jukk_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Chile",
+        "Prickly Pear",
+        "Broccoli",
+        "Focaccia",
+        "Humita",
+        "Ostrich Feather",
+        "Nacre",
+        "Bones",
+        "Sapphire",
+        "Wild Grapes Wine",
+        "Gold",
+        "Yarn"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Pumpkin",
+        "Fennel",
+        "Coconut",
+        "Pomegranate",
+        "Date",
+        "Pomegranate Toast",
+        "Blue Seashell",
+        "Mussel Shell",
+        "Horns",
+        "Smoked Beans",
+        "Silver",
+        "Mango Juice",
+        " Dried Mango",
+        "Fur"
+      ]
+    }
+  },
+  "Maeri": {
+    "name": "Maeri",
+    "clan": "Mograni Clan",
+    "image": "/img/portraits/Maeri_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Sunflower",
+        "Olive",
+        "Sunflower Oil",
+        "Sauerkraut",
+        "Dumplings",
+        "Willow Bark",
+        "Beans Plant Meat",
+        "Pickled Beets",
+        "Amethyst",
+        "Dried Sponge"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Tomato Juice",
+        "Dried Chile",
+        "Sundried Tomato",
+        "Wild Rye",
+        "Ostrich Feather",
+        "Wheat Bread",
+        "Pickled Eggplant",
+        "Flour"
+      ]
+    }
+  },
+  "Mana": {
+    "name": "Mana",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Mana_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Quinoa",
+        "Tomato Juice",
+        "Carrot Juice",
+        "Coconut Milk",
+        "Almond Milk Cheese",
+        "Tomato Bisque",
+        "Pineapple Chicken",
+        "Pickled Garlic",
+        "Cabbage Vinegar"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Garlic",
+        "Almond",
+        "Pineapple",
+        "Almond Milk",
+        "Broccoli Juice",
+        "Cabbage Juice",
+        "Kohlrabi Juice",
+        "Sea Kale Juice",
+        "Broccoli",
+        "Horns",
+        "Pickled Cassava",
+        "Dried Date",
+        "Jasper"
+      ]
+    }
+  },
+  "Nari": {
+    "name": "Nari",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Nari_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Amaranth",
+        "Cabbage",
+        "Dried Chile",
+        "Kefir Pancakes",
+        "Elecampane",
+        "Copper",
+        "Pickled Chitons",
+        "Beryl",
+        "Aged Cheese",
+        "Pickled Chile",
+        "Aged Wine"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Pomegranate",
+        "Olive Oil",
+        "Teff",
+        "Chile",
+        "Dried Chile",
+        "Injera",
+        "Nacre",
+        "Datura Flower",
+        "Smoked Red Meat",
+        "Teff Flour",
+        "Wild Grapes",
+        "Herb Cheese"
+      ]
+    }
+  },
+  "Nokk": {
+    "name": "Nokk",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Nokk_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Carrot",
+        "Sundried Tomato",
+        "Sesame Oil",
+        "Tomato",
+        "Maccu",
+        "Oregano",
+        "Ibex Milk Sour Cream",
+        "Wheat Flour",
+        "Smoked Red Meat",
+        "Wild Rice",
+        "Avocado Oil",
+        "Rosemary",
+        "Peridot",
+        "Pineapple Mead Vinegar"
+      ],
+      "like": [
+        "Eggplant",
+        "Corn",
+        "Sesame",
+        "Olive Oil",
+        "Injera",
+        "Brown Mushroom",
+        "Meat Lard",
+        "Beans Plant Meat",
+        "Roasted Fish",
+        "Parsley",
+        "Boar Fur",
+        "Boar Fur Yarn",
+        "Vinegar"
+      ]
+    }
+  },
+  "Okka": {
+    "name": "Okka",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Okka_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Avocado",
+        "Roast Meat",
+        "Ostrich Egg",
+        "Citronella",
+        "Sunflower Mead",
+        "Sapphire"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Pumpkin",
+        "Tomato",
+        "Sea Kale",
+        "Mead",
+        "Goat Cheese",
+        "Red Meat",
+        "Smoked Beans",
+        "Smoked White Meat",
+        "Potato Salad",
+        "Wild Rye Beer",
+        "Smoked Red Meat",
+        "Dried Red Meat",
+        "Pickled Red Meat",
+        "Dried Fish",
+        "Smoked Fish"
+      ]
+    }
+  },
+  "Reese": {
+    "name": "Reese",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Reese_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Sunflower",
+        "Falafel",
+        "Roast Meat",
+        "Boar Fur",
+        "Ostrich Feather",
+        "Nacre",
+        "Strange Mushroom",
+        "Lavender",
+        "Aged Wine",
+        "Wine",
+        "Aged Cheese",
+        "Herb Cheese",
+        "Mushroom Cheese"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Broccoli",
+        "Beets",
+        "Almond",
+        "Pomegranate",
+        "Gemstone",
+        "Guanaco Fur",
+        "Milk Thistle",
+        "Aged Wine",
+        "Mulled Wine",
+        "Butter"
+      ]
+    }
+  },
+  "Ron": {
+    "name": "Ron",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Ron_Portrait.webp",
+    "presents": {
+      "love": [
+        "Roasted Vegetables",
+        "Strawberry Mulled Wine",
+        "Wheat Beer",
+        "Grain",
+        "Juice",
+        "Aged Wine"
+      ],
+      "like": [
+        "Mango",
+        "Pomegranate Juice",
+        "Strawberry",
+        "Wild Grapes",
+        "Pomegranate",
+        "Almond Milk",
+        "Wine",
+        "Beer",
+        "Mead"
+      ]
+    }
+  },
+  "Tare": {
+    "name": "Tare",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Tare_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Chile",
+        "Sunflower Oil",
+        "Oil Cake",
+        "Oregano",
+        "Red Meat Lard",
+        "White Meat",
+        "Wild Rice",
+        "Sesame Mead",
+        "Parsley",
+        "Beryl",
+        "Broccoli Vinegar",
+        "Butter",
+        "Smoked Fish"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Quinoa",
+        "Sunflower",
+        "Garlic",
+        "Potato Salad",
+        "Brown Mushroom",
+        "Dried White Meat",
+        "Meat Lard",
+        "Smoked White Meat",
+        "Pickled Chile",
+        "Water Animal",
+        "Fermented Fish",
+        "Mayo",
+        "Vinegar"
+      ]
+    }
+  },
+  "Tetih": {
+    "name": "Tetih",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Tetih_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Coconut",
+        "Coconut Butter",
+        "Aged Wine",
+        "Cassava",
+        "Trumpet",
+        "Medusalion",
+        "Onion Soup",
+        "Wild Raisins",
+        "Dried Date",
+        "Amethyst",
+        "Gold",
+        "Sapphire"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Date",
+        "Sundried Tomato",
+        "Gemstone",
+        "Zeus",
+        "Strange Mushroom",
+        "Milk Thistle",
+        "Willow Bark",
+        "Fermented Fish",
+        "Ocean Fish",
+        "Pickled Egg"
+      ]
+    }
+  },
+  "Touk": {
+    "name": "Touk",
+    "clan": "Mograni Clan",
+    "image": "/img/portraits/Touk_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Potato",
+        "Wild Grapes Juice",
+        "Pineapple",
+        "Pizza",
+        "Spaghetti",
+        "Datura Flower",
+        "Ostrich Egg Mayonnaise",
+        "Dried Red Meat",
+        "Goat Cheese",
+        "Aged Ibex Milk Cheese",
+        "Mushroom Ibex Milk Cheese",
+        "Ibex Milk Herb Cheese",
+        "Alfalfa",
+        "Peridot",
+        "Pineapple Mead"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Sunflower",
+        "Garlic",
+        "Pomegranate",
+        "Trumpet",
+        "Medusalion",
+        "Burdock Root",
+        "Poop",
+        "Ibex Milk Sour Cream",
+        "Smoked Red Meat",
+        "Smoked White Meat",
+        "Smoked Fish",
+        "Honey"
+      ]
+    }
+  },
+  "Vallah": {
+    "name": "Vallah",
+    "clan": "Mograni Clan",
+    "image": "/img/portraits/Vallah_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Kohlrabi",
+        "Dried Chile",
+        "Smoked Plant Meat",
+        "Ensalada Criolla",
+        "Lentil Pie",
+        "Oregano",
+        "Rosemary",
+        "Copper",
+        "Mint",
+        "Amethyst",
+        "Smoked Stargazer",
+        "Pumpkin Mead"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Coconut",
+        "Alma",
+        "Wheat Bread",
+        "Obsidian",
+        "Flint",
+        "Smorrebrod",
+        "Dried Coconut",
+        "Hardwood",
+        "Mushroom"
+      ]
+    }
+  },
+  "Vor": {
+    "name": "Vor",
+    "clan": "Mograni Clan",
+    "image": "/img/portraits/Vor_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Strawberry Juice",
+        "Arroz Con Leche",
+        "Marzipan",
+        "Parfait",
+        "Poop",
+        "Dried Red Meat",
+        "Smoked Red Meat",
+        "Cheese"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Strawberry",
+        "Corn",
+        "Sunflower",
+        "Potato",
+        "Pomegranate",
+        "Ostrich Egg",
+        "Honey",
+        "Ibex Milk Sour Cream",
+        "Dried White Meat",
+        "Smoked White Meat"
+      ]
+    }
+  },
+  "Voda": {
+    "name": "Voda",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Voda_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Buckwheat",
+        "Strawberry Juice",
+        "Oat Cheese",
+        "Sundried Tomato",
+        "Popcorn",
+        "Ramen",
+        "Tomato",
+        "Oysters",
+        "Pineapple Mead",
+        "Lavender",
+        "Wild Honey"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Chile",
+        "Eggplant",
+        "Beets",
+        "Strawberry",
+        "Dried Red Meat",
+        "Smoked Red Meat",
+        "Fermented Fish",
+        "Honey"
+      ]
+    }
+  },
+  "Vuak": {
+    "name": "Vuak",
+    "clan": "Pachan Clan",
+    "image": "/img/portraits/Vuak_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Pumpkin",
+        "Strawberry Juice",
+        "Gemstone",
+        "Hummus",
+        "Baba Ganoush",
+        "Mandrake",
+        "Pickled Beets"
+      ],
+      "like": [
+        "Mango Juice",
+        "Pomegranate Juice",
+        "Medicinal Items",
+        "Beets",
+        "Congee",
+        "Obsidian",
+        "Bones",
+        "Horns",
+        "Strange Mushroom",
+        "Roasted Vegetables"
+      ]
+    }
+  },
+  "Zeda": {
+    "name": "Zeda",
+    "clan": "Mograni Clan",
+    "image": "/img/portraits/Zeda_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Chile",
+        "Kohlrabi",
+        "Garlic",
+        "Pomegranate Juice",
+        "Wild Raisins",
+        "Dried Mango",
+        "Meat Filled Squash",
+        "Smoked Red Meat",
+        "Mint",
+        "Aged Prickly Pear Wine",
+        "Silver",
+        "Gold",
+        "Amethyst"
+      ],
+      "like": [
+        "Mango Juice",
+        "Wild Grapes",
+        "Sesame",
+        "Eggplant",
+        "Broccoli",
+        "Ostrich Egg",
+        "Wheat Bread",
+        "Pickled Eggplant"
+      ]
+    }
+  },
+  "Zelk": {
+    "name": "Zelk",
+    "clan": "Mograni Clan",
+    "image": "/img/portraits/Zelk_Portrait.webp",
+    "presents": {
+      "love": [
+        "Mango",
+        "Eggplant",
+        "Sesame Oil",
+        "Beets Juice",
+        "Duxelles",
+        "Goat Cheese",
+        "Ostrich Egg Mayonnaise",
+        "Dried Date",
+        "Beryl",
+        "Aged Kohlrabi Wine",
+        "Mushroom",
+        "Pickled Egg"
+      ],
+      "like": [
+        "Mango Juice",
+        "Tomato",
+        "Gemstone",
+        "Pomegranate",
+        "Date",
+        "Ostrich Egg",
+        "Mandrake",
+        "Flint",
+        "Injera",
+        "Aged Wine"
+      ]
+    }
+  }
+}

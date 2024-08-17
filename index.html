@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Present Finder</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="js.js" async></script>
+  </head>
+  <body>
+    <div class="main">
+      <h1 class="logo">Roots of Pace Present Finder</h1>
+      <form id="finder" class="form-finder">
+        <label class="label-present" for="inputPresent"
+          >Welches Item willst du verschenken?</label
+        >
+        <div class="search-present">
+          <input
+            name="inputPresent"
+            class="input-present"
+            type="text"
+            placeholder="Item eingeben"
+          />
+          <button type="submit" class="btn-preset">Suchen</button>
+        </div>
+      </form>
+      <div class="search-result">
+        <div class="search-result__list js-search-result-list"></div>
+      </div>
+    </div>
+  </body>
+</html>
