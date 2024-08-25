@@ -22,8 +22,8 @@ PresentFinder.getJSONData = () => {
 };
 
 PresentFinder.getSearchTerm = () => {
-  let selector = { PresentFinder };
-  const input = document.querySelector(PresentFinder.selector.input);
+  let { selector } = PresentFinder;
+  const input = document.querySelector(selector.input);
   const searchTerm = input.value.toLowerCase();
   return searchTerm;
 };
@@ -34,18 +34,29 @@ PresentFinder.createMemberElement = (member, resultLove, resultLike, image) => {
   );
   const memberBox = document.createElement("div");
   memberBox.classList.add("member-box");
-  if (resultLike.length > 0 && resultLove.length === 0)
-    memberBox.innerHTML = `<h2 class="js-member-name">${member}</h2><div class="member-image"><img src="${image}" alt="${member}"/></div><div class="presents"><h3>Likes</h3><div class="presents-content">${resultLike}</div></div>`;
-  if (resultLove.length > 0 && resultLike.length === 0)
-    memberBox.innerHTML = `<h2 class="js-member-name">${member}</h2><div class="member-image"><img src="${image}" alt="${member}"/></div><div class="presents"><h3>Loves</h3><div class="presents-content">${resultLove}</div></div>`;
-  if (resultLove.length > 0 && resultLike.length > 0)
-    memberBox.innerHTML = `<h2 class="js-member-name">${member}</h2><div class="member-image"><img src="${image}" alt="${member}"/></div><div class="presents"><h3>Loves</h3><div class="presents-content">${resultLove}</div><h3>Likes</h3><div class="presents-content">${resultLike}</div></div>`;
+  let word = "";
+  let html = `<h2 class="js-member-name">${member}</h2><div class="member-image"><img src="${image}" alt="${member}"/></div><div class="presents"><h3>${word}</h3><div class="presents-content">`;
+  if (resultLike.length > 0 && resultLove.length === 0) {
+    word = "likes";
+    memberBox.innerHTML = html + `${resultLike}</div></div>`;
+  }
+  if (resultLove.length > 0 && resultLike.length === 0) {
+    word = "loves";
+    memberBox.innerHTML = html + `${resultLove}</div></div>`;
+  }
+  if (resultLove.length > 0 && resultLike.length > 0) {
+    word = "loves";
+    memberBox.innerHTML =
+      html +
+      `${resultLove}</div><h3>Likes</h3><div class="presents-content">${resultLike}</div></div>`;
+  }
   searchResultList.append(memberBox);
 };
 
 PresentFinder.searchTrigger = (e) => {
-  const searchBtn = document.querySelector(PresentFinder.selector.searchBtn);
-  const input = document.querySelector(PresentFinder.selector.input);
+  let { selector } = PresentFinder;
+  const searchBtn = document.querySelector(selector.searchBtn);
+  const input = document.querySelector(selector.input);
   let searchTerm = "";
   let data = PresentFinder.getJSONData();
   const output = (obj, member, image) => {
@@ -64,9 +75,7 @@ PresentFinder.searchTrigger = (e) => {
 
   const getResults = (e) => {
     e.preventDefault();
-    const searchResultList = document.querySelector(
-      PresentFinder.selector.searchResultList
-    );
+    const searchResultList = document.querySelector(selector.searchResultList);
     searchResultList.innerHTML = "";
     searchTerm = PresentFinder.getSearchTerm();
     data.then((clanMemberPresents) => {
