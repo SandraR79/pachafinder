@@ -34,21 +34,22 @@ PresentFinder.createMemberElement = (member, resultLove, resultLike, image) => {
   );
   const memberBox = document.createElement("div");
   memberBox.classList.add("member-box");
-  let word = "";
-  let html = `<h2 class="js-member-name">${member}</h2><div class="member-image"><img src="${image}" alt="${member}"/></div><div class="presents"><h3>${word}</h3><div class="presents-content">`;
+  let html = `<h2 class="js-member-name">${member}</h2><div class="member-image"><img src="${image}" alt="${member}"/></div><div class="presents">`;
   if (resultLike.length > 0 && resultLove.length === 0) {
-    word = "likes";
-    memberBox.innerHTML = html + `${resultLike}</div></div>`;
-  }
-  if (resultLove.length > 0 && resultLike.length === 0) {
-    word = "loves";
-    memberBox.innerHTML = html + `${resultLove}</div></div>`;
-  }
-  if (resultLove.length > 0 && resultLike.length > 0) {
-    word = "loves";
     memberBox.innerHTML =
       html +
-      `${resultLove}</div><h3>Likes</h3><div class="presents-content">${resultLike}</div></div>`;
+      `<h3>Likes</h3><div class="presents-content">${resultLike}</div></div>`;
+  }
+  if (resultLove.length > 0 && resultLike.length === 0) {
+    memberBox.innerHTML =
+      html +
+      `<h3>Loves</h3><div class="presents-content">${resultLove}</div></div>`;
+    console.log(html);
+  }
+  if (resultLove.length > 0 && resultLike.length > 0) {
+    memberBox.innerHTML =
+      html +
+      `<h3>Loves</h3><div class="presents-content">${resultLove}</div><h3>Likes</h3><div class="presents-content">${resultLike}</div></div>`;
   }
   searchResultList.append(memberBox);
 };
